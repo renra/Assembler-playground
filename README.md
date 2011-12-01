@@ -17,3 +17,12 @@ To run the executable do:
 ```
 ./hello
 ```
+
+For more information on nasm and ld do:
+
+```
+man nasm
+man ld
+```
+
+This project is realized on a unix platform as that allows me to see deeper into system.
