@@ -6,13 +6,11 @@ These programs are written in Net Wide Assembly or simply nasm. To generate an o
 nasm -f elf hello.asm
 ```
 
-
 To generate an executable do:
 
 ```
 ld -s -o hello hello.o
 ```
-
 
 To run the executable do:
 
