@@ -25,4 +25,4 @@ man nasm
 man ld
 ```
 
-This project is realized on a unix platform as that allows me to see deeper into system.
+This project is realized on a unix platform as that allows me to see deeper into the system.
