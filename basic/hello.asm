@@ -14,6 +14,13 @@ _start:
   mov eax, 4
   int 0x80
 
+  mov [msg], word 'Hi'
+  mov edx, len
+  mov ecx, msg
+  mov ebx, 1
+  mov eax, 4
+  int 0x80
+
   mov edx, 9
   mov ecx, l2
   mov ebx, 1
